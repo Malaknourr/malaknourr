@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Malaknourr
+- I am a computer science student @FCAI-CU.
+- I’m interested in programming 👩🏻‍💻🩷
