@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Malaknourr
-- I am a computer science student @FCAI-CU.
-- I’m interested in programming 👩🏻‍💻🩷
+👋 Hello, I'm @Malaknourr.
+Iam a CS student at FCAI-CU.
+Check out my latest projects from my structured programming course (CS112), uploaded here.🤩
