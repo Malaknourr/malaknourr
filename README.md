@@ -16,20 +16,12 @@ In my journey, I've developed expertise in various areas, including:
 - **Cybersecurity**: Networks and some basic concepts.
 - **Machine Learning**: Basic understanding and experimentation with ML models and algorithms.
 
-## 📚 Current Projects & Learning Focus
-
-Here are some of the things I am currently working on or learning:
-
-- **[C++ Task Manager](https://github.com/Malaknourr/Task-Manager)**: A simple task manager program that fetches and displays system processes, with sorting options for the process list.
-- **[Polynomial Solver](https://github.com/Malaknourr/Polynomial-Solver)**: A program that solves polynomial equations with support for operations like differentiation, integration, and root finding.
-- **[Cybersecurity Projects](https://github.com/Malaknourr/Cybersecurity-Projects)**: Exploring various cybersecurity concepts and tools, including ethical hacking and network security testing.
-
 ## 🌱 What I’m Learning Now
 - Advanced **algorithms and data structures** for optimizing code efficiency.
 - Dive deeper into **cybersecurity**, including penetration testing and cryptography.
 - Expand my knowledge in **machine learning** and start working on ML models.
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [linkedin.com/in/malaknourr](https://www.linkedin.com/in/malaknourr)
+- **LinkedIn**: [linkedin.com/in/malaknourr](https://www.linkedin.com/in/malak-nourelhussien)
   
 Feel free to explore my repositories, contribute to any projects, or reach out if you have any interesting ideas to collaborate on! Let's build something amazing together. 🤝
