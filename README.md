@@ -1,27 +1,51 @@
-# 👋 Hello, I'm @Malaknourr
+# Hi there, I'm Malaknourr! 👋
 
-I'm a passionate **Computer Science student** at **FCAI-CU** with a focus on **structured programming**, **algorithms**, and **software development**. I enjoy working on practical projects and solving complex problems that challenge my creativity and coding skills. 🚀
+Welcome to my GitHub profile! I'm a passionate Computer Science student at FCAI-CU with a focus on structured programming, algorithms, and software development. I enjoy working on practical projects and solving complex problems that challenge my creativity and coding skills. 🚀
 
-In my journey, I've developed expertise in various areas, including:
+---
 
-- **C++ Programming**: I have extensive experience writing and optimizing C++ code, especially in systems programming, data structures, and algorithm design.
-- **Algorithms & Data Structures**: I'm constantly exploring new algorithms and techniques to improve the efficiency and performance of software systems.
-- **Software Engineering**: I’ve worked on building software applications, focusing on good coding practices, testing, and optimization.
-- **Cybersecurity**: I'm exploring the field of cybersecurity and diving into topics such as network security, ethical hacking, and risk management.
+## 🚀 About Me
+- 🎓 Computer Science student at FCAI-CU
+- 💻 Currently working on: Practical projects involving algorithms and software development
+- 🌱 Learning: Advanced algorithms, cybersecurity, and machine learning
+- 💡 Passionate about: Exploring new algorithms, building efficient software, and diving into cybersecurity
 
-## 🛠️ Key Skills
-- **Programming Languages**: C++, Python.
-- **Tools & Technologies**: Git, Visual Studio, CLion, Windows.
-- **Concepts**: Object-Oriented Programming (OOP), Data Structures, Algorithms, Recursion, Memory Management.
-- **Cybersecurity**: Networks and some basic concepts.
-- **Machine Learning**: Basic understanding and experimentation with ML models and algorithms.
+---
 
-## 🌱 What I’m Learning Now
-- Advanced **algorithms and data structures** for optimizing code efficiency.
-- Dive deeper into **cybersecurity**, including penetration testing and cryptography.
-- Expand my knowledge in **machine learning** and start working on ML models.
+## 🛠️ Skills & Tools
+### Programming Languages
+- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📫 How to Reach Me
-- **LinkedIn**: [linkedin.com/in/malaknourr](https://www.linkedin.com/in/malak-nourelhussien)
-  
+### Tools & Technologies
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+- ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=clion&logoColor=white)
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+### Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- Recursion
+- Memory Management
+
+### Cybersecurity
+- Networks and basic concepts
+
+### Machine Learning
+- Basic understanding and experimentation with ML models and algorithms
+
+---
+
+## 🌟 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Let's Connect
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malaknourr)
+
 Feel free to explore my repositories, contribute to any projects, or reach out if you have any interesting ideas to collaborate on! Let's build something amazing together. 🤝
