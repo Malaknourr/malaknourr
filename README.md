@@ -41,8 +41,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at FCAI-
 ## 🌟 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
+
 
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malaknourr)
