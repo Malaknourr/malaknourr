@@ -47,6 +47,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at FCAI-
 
 
 ## 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malaknourr)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-nourelhussien)
 
 Feel free to explore my repositories, contribute to any projects, or reach out if you have any interesting ideas to collaborate on! Let's build something amazing together. 🤝
