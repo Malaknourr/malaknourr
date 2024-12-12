@@ -1,4 +1,4 @@
-# Hi there, I'm Malaknourr! 👋
+# Hi there, I'm MALAK NOUR ELHUSSIEN ! 👋
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student at FCAI-CU with a focus on software development. I enjoy working on practical projects and solving complex problems that challenge my creativity and coding skills. 🚀
 
