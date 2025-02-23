@@ -38,9 +38,18 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student at *
 
 ## 📊 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=radical)  
+<div align="center">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Malaknourr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=radical&hide_border=true)  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=radical&no-frame=true&column=4)  
+
+</div>  
+
 
 ---
 
