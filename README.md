@@ -39,8 +39,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student at *
 
 <div align="center">  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Malaknourr&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=radical&hide_border=true&count_private=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=radical&hide_border=true)  
@@ -48,7 +46,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student at *
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=radical&no-frame=true&column=4)  
 
 </div>  
-
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-nourelhussien)  
