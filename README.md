@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student at *
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=radical&no-frame=true&column=4)  
 
 </div>  
----
+
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-nourelhussien)  
