@@ -32,7 +32,7 @@ I'm a passionate **Computer Science** student at **Faculty of computers & AI - C
 ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=clion&logoColor=white)  
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)  
 
----
+
 
 ### 🔹 Concepts & Areas of Interest  
 - 🚀 **Object-Oriented Programming (OOP) & Software Design**  
