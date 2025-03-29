@@ -1,5 +1,5 @@
 # Hi there, I'm MALAK NOUR ELHUSSIEN! 👋  
-
+![Greeting](https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Welcome+to+my+profile!;Have+a+great+day!&center=true&size=25)
 Welcome to my GitHub profile! I'm a passionate **Computer Science** student at **FCAI-CU**, with a deep interest in **software development, algorithms, and cybersecurity**. I love solving complex problems and building efficient, scalable software. 🚀  
 
 ---
@@ -39,12 +39,13 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student at *
 
 <div align="center">  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Malaknourr&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=radical&hide_border=true)  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=radical&no-frame=true&column=4)  
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Malaknourr&color=brightgreen)
 </div>  
 
 ## 📫 Let's Connect!  
