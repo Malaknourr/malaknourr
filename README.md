@@ -29,7 +29,7 @@ I'm a passionate **Computer Science** student at **Faculty of computers & AI - C
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)  
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat&logo=burpsuite&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat&logo=burpsuite&logoColor=white)
 ![PortSwigger](https://img.shields.io/badge/-PortSwigger-F05A22?style=flat&logo=portswigger&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
