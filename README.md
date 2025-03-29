@@ -3,21 +3,18 @@
   ![Greeting](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Iam+MALAK+NOUR+ELHUSSIEN👋&center=true&size=25)  
 
 </div>
-
+---
 I'm a passionate **Computer Science** student at **Faculty of computers & AI - Cairo University**, with a deep interest in **software development, CLoud Computing, and cybersecurity**. I love solving complex problems and building efficient, scalable software. 🚀  
 
 ---
-
 ## 🚀 About Me  
 - 🎓 **Computer Science student** at **FCAI-CU**  
 - 💻 **Currently working on**: Practical projects involving **algorithms, data structures, and software development**  
-- 🌱 **Learning**: Advanced **algorithms, cybersecurity**, and **web technologies**  
-- 💡 **Passionate about**: Exploring **new algorithms, OOP, system security**, and building **optimized software solutions**  
-
----
+- 🌱 **Learning**: **Advanced algorithms, cybersecurity, Linux, and web technologies**  
+- 💡 **Passionate about**: **Optimizing software performance, OOP, system security, and exploring cloud computing**  
 
 ## 🛠️ Skills & Tools  
-
+---
 ### 🔹 Programming Languages  
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -36,15 +33,15 @@ I'm a passionate **Computer Science** student at **Faculty of computers & AI - C
 ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=clion&logoColor=white)  
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)  
 
-
+---
 
 ### 🔹 Concepts & Areas of Interest  
-- **Object-Oriented Programming (OOP)**  
-- **Data Structures & Algorithms**  
-- **Recursion & Memory Management**  
-- **Cybersecurity Fundamentals**  
-- **Networking Basics**  
-- **Machine Learning (Basic understanding & experimentation)**  
+- 🚀 **Object-Oriented Programming (OOP) & Software Design**  
+- 📌 **Data Structures & Algorithms**  
+- 🔁 **Recursion, Memory Management & System Optimization**  
+- 🔐 **Cybersecurity & Ethical Hacking**  
+- 🌐 **Networking (CCNA Basics & System Administration)**  
+- ☁️ **Cloud Computing & Virtualization** 
 
 ---
 ## 📊 My GitHub Stats  
@@ -57,7 +54,6 @@ I'm a passionate **Computer Science** student at **Faculty of computers & AI - C
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=radical&no-frame=true&column=4)  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Malaknourr&color=brightgreen)
 </div>  
 
 ## 📫 Let's Connect!  
