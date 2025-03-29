@@ -3,10 +3,9 @@
   ![Greeting](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Iam+MALAK+NOUR+ELHUSSIEN👋&center=true&size=25)  
 
 </div>
----
+
 I'm a passionate **Computer Science** student at **Faculty of computers & AI - Cairo University**, with a deep interest in **software development, CLoud Computing, and cybersecurity**. I love solving complex problems and building efficient, scalable software. 🚀  
 
----
 ## 🚀 About Me  
 - 🎓 **Computer Science student** at **FCAI-CU**  
 - 💻 **Currently working on**: Practical projects involving **algorithms, data structures, and software development**  
@@ -14,7 +13,7 @@ I'm a passionate **Computer Science** student at **Faculty of computers & AI - C
 - 💡 **Passionate about**: **Optimizing software performance, OOP, system security, and exploring cloud computing**  
 
 ## 🛠️ Skills & Tools  
----
+
 ### 🔹 Programming Languages  
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
