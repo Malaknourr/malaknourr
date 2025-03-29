@@ -1,5 +1,9 @@
 # Hi there, I'm MALAK NOUR ELHUSSIEN! 👋  
-![Greeting](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;Welcome+to+my+profile!;!&center=true&size=25)
+<div align="center">
+  
+  ![Greeting](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;Welcome+to+my+profile!;&center=true&size=25)  
+
+</div>
 
 Welcome to my GitHub profile! I'm a passionate **Computer Science** student at **FCAI-CU**, with a deep interest in **software development, algorithms, and cybersecurity**. I love solving complex problems and building efficient, scalable software. 🚀  
 
