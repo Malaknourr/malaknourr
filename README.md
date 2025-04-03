@@ -65,21 +65,9 @@ I'm a passionate **Computer Science** student at **Faculty of computers & AI - C
 
 </div>
 
-<div>
-<a href="https://github.com/Malaknourr">
-  <img height="80em" src="https://github-readme-streak-stats.herokuapp.com/?user=Malaknourr&theme=tokyonight&hide_border=true" />
-</a>
-
-### 🏆 Achievements & Contributions
-<a href="https://github.com/Malaknourr">
-  <img height="90em" src="https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=tokyonight&no-frame=true&column=3" />
-</a>
-
-</div>
-
 
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-nourelhussien)  
 
-🚀 Feel free to explore my repositories, collaborate on projects, or reach out if you have exciting ideas to discuss! Let's build something amazing together. 🤝  
+Feel free to explore my repositories, collaborate on projects, or reach out if you have exciting ideas to discuss! Let's build something amazing together.   
