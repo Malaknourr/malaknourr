@@ -64,6 +64,36 @@ I'm a passionate **Computer Science** student at **Faculty of computers & AI - C
 </a>
 
 </div>
+------------------------------------------------------------------- -                        --------------------------
+## 🚀 GitHub Stats  
+
+<div align="center">
+
+### 📈 Profile Overview
+<a href="https://github.com/Malaknourr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/Malaknourr">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Malaknourr&theme=tokyonight&hide_border=true" />
+</a>
+
+### 🏆 Achievements & Contributions
+<a href="https://github.com/Malaknourr">
+  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=tokyonight&no-frame=true&column=4" />
+</a>
+
+<a href="https://github.com/Malaknourr">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malaknourr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</a>
+
+### 🔥 Most Used Languages
+<a href="https://github.com/Malaknourr">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 
 
 ## 📫 Let's Connect!  
