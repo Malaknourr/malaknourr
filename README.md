@@ -8,10 +8,6 @@
 
 ---
 
-🎓 **Computer Science student** at the **Faculty of Computers and Artificial Intelligence – Cairo University**, with strong practical experience in **software development, cybersecurity, and cloud computing**. I am passionate about solving real-world problems through clean, scalable code and secure system design.
-
----
-
 ## 📌 About Me
 
 - 👩‍💻 Third-year **Computer Science** student 
@@ -49,59 +45,30 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🖼 **[Image Processing Application](https://github.com/Malaknourr/PhotoEditor_program)**  
-  C++ app with 15+ image filters using a custom image class.
-
-- 🧠 **[Vole-Machine Simulator](https://github.com/Malaknourr/VoleMachine_Simulator)**  
-  Simulates memory, registers, and a fetch-decode-execute instruction cycle for educational CPU emulation.
-
-- 🔐 **[10_Ciphers_Program](https://github.com/Malaknourr/10_Ciphers_Program)**  
-  Classic encryption algorithms like Vigenère, XOR, Affine with CLI support.
-
-- 📱 **[Life-Mate App](https://github.com/Malaknourr/JavaApplication)**  
-  A personal wellness app combining journaling, task management, and health tracking – built in Java.
-
-- 🎮 **[Board-Games Framework](https://github.com/Malaknourr/BoardGames)**  
-  Object-oriented framework for creating customizable board games using SOLID principles.
-
----
-
-## 🤝 Volunteering
-
-**Backend Developer – Minder Student Activity**  
-📆 Feb 2025 – Present  
-Building backend solutions in Django to support student collaboration and learning.
-
----
-
-## 📜 Certifications
-
-- ☁️ [**Introduction to Cloud Computing** – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/72c66b2bd32d6b6effb078c061f7bb49fb1e28e6)  
-- 🛡️ Cybersecurity Workshop – IEEE Cairo University (Mar 2025 – Present)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Malaknourr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=tokyonight&hide_border=true" alt="Malak's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Malaknourr">
-  <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=tokyonight&no-frame=true&column=4" />
-</a>
+<br/>
 
 <a href="https://github.com/Malaknourr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Malaknourr">
+  <img height="140em" src="https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 </a>
 
 </div>
 
 ---
+
 
 ## 📬 Let's Connect!
 
