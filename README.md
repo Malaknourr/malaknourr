@@ -1,6 +1,10 @@
-<div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;I'm+Malak+Nour+Elhussien&center=true&size=25" alt="Typing SVG">
-</div>
+<h1 align="center">Malak Nour Elhussien</h1>
+<p align="center">
+  Computer Science Student | Cairo University  
+</p>
+<p align="center">
+  Passionate about Software Development, Cloud Computing, and Cybersecurity
+</p>
 
 ---
 
