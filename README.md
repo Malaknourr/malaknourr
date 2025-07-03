@@ -1,7 +1,8 @@
 <!-- DYNAMIC HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Malak+Nour+Elhussien;Backend+%7C+Cloud+%7C+Cybersecurity+Enthusiast;CS+Student+%40+Cairo+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=36&duration=3000&pause=1000&color=FF6B81&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Malak+Nour+Elhussien;Backend+%7C+Cloud+%7C+Cybersecurity+Enthusiast;CS+Student+%40+Cairo+University" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   💻 Passionate about software systems that work, scale, and stay secure.
