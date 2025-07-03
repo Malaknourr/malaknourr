@@ -76,7 +76,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-nourelhussien)  
 📧 Email: [malak.nourelhussien@gmail.com](mailto:malak.nourelhussien@gmail.com)  
-💻 GitHub: [github.com/Malaknourr](https://github.com/Malaknourr)
 
 > ⚡ Let’s collaborate, build, and learn together — always open to meaningful tech conversations and cool project ideas!
 
